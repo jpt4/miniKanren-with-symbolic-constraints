@@ -1,6 +1,10 @@
 # miniKanren-with-symbolic-constraints
 
-The version of miniKanren I normally use.  Includes `==`, `=/=`, `symbolo`, `numbero`, generalized `absento` constraints.
+Forked from webyrd's personal miniKanren. Reference environment for
+(nocko) implementation. Will eventually spawn personal miniKanren
+prelude.
+
+Includes `==`, `=/=`, `symbolo`, `numbero`, generalized `absento` constraints.
 
 Good for writing Quine-generating interpreters, etc.  :)
 
