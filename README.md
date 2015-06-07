@@ -2,7 +2,7 @@
 
 Forked from webyrd's personal miniKanren variant. Reference
 environment for (nocko) implementation. Will eventually spawn
-idiosyncratic miniKanren prelude. Test.
+idiosyncratic miniKanren prelude.
 
 Includes `==`, `=/=`, `symbolo`, `numbero`, generalized `absento` constraints.
 
