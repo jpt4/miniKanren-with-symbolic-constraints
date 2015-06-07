@@ -1,8 +1,8 @@
 # miniKanren-with-symbolic-constraints
 
-Forked from webyrd's personal miniKanren. Reference environment for
-(nocko) implementation. Will eventually spawn personal miniKanren
-prelude.
+Forked from webyrd's personal miniKanren variant. Reference
+environment for (nocko) implementation. Will eventually spawn
+idiosyncratic miniKanren prelude.
 
 Includes `==`, `=/=`, `symbolo`, `numbero`, generalized `absento` constraints.
 
